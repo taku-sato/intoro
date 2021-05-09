@@ -1,3 +1,4 @@
 佐藤卓です
 Git add
 Git commit
+Gitstatus
